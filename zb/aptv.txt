@@ -28,7 +28,7 @@ Beach TV,http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.
 CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8?$全网576P
 CGTN记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网576P
 
-4 K|专区,#genre#
+4   K|频道,#genre#
 
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
@@ -60,50 +60,6 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13新闻,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 
-凤凰,#genre#
-
-大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-地理野生-02,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-东森财经-01,rtmp://59.124.75.138:1935/sat/tv571
-东森财经-02,rtmp://219.80.97.35/sat/tv571
-东森超视-01,rtmp://59.124.75.138:1935/sat/tv331
-东森超视-02,rtmp://219.80.97.35/sat/tv331
-凤凰中文-01,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-凤凰资讯-01,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-华视-01,rtmp://59.124.75.138:1935/sat/tv111
-华视-02,rtmp://219.80.97.35/sat/tv111
-民视-01,rtmp://59.124.75.138:1935/sat/tv051
-民视-02,rtmp://219.80.97.35/sat/tv051
-陌陌综合-01,rtmp://59.124.75.138:1935/sat/tv761
-陌陌综合-02,rtmp://219.80.97.35/sat/tv761
-台视-01,rtmp://59.124.75.138:1935/sat/tv071
-台视-02,rtmp://219.80.97.35/sat/tv071
-纬来日本-01,rtmp://59.124.75.138:1935/sat/tv771
-纬来日本-02,rtmp://219.80.97.35/sat/tv771
-纬来体育-01,rtmp://59.124.75.138:1935/sat/tv721
-纬来体育-02,rtmp://219.80.97.35/sat/tv721
-纬来育乐-01,rtmp://59.124.75.138:1935/sat/tv701
-纬来育乐-02,rtmp://219.80.97.35/sat/tv701
-有线18-01,rtmp://59.124.75.138:1935/sat/hk041
-有线18-02,rtmp://219.80.97.35/sat/hk041
-原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-中视-01,rtmp://59.124.75.138:1935/sat/tv091
-中视-02,rtmp://219.80.97.35/sat/tv091
-CCM天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
-CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
-ELEVEN1-01,rtmp://59.124.75.138:1935/sat/tv731
-ELEVEN1-02,rtmp://219.80.97.35/sat/tv731
-ELEVEN2-01,rtmp://219.80.97.35/sat/tv741
-ELEVEN2-02,rtmp://59.124.75.138:1935/sat/tv741
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-TVBS欢乐-01,rtmp://59.124.75.138:1935/sat/tv421
-TVBS欢乐-02,rtmp://219.80.97.35/sat/tv421
-TVBS新闻-01,rtmp://59.124.75.138:1935/sat/tv551
-TVBS新闻-02,rtmp://219.80.97.35/sat/tv551
 
 凤凰|频道,#genre#
 
@@ -166,6 +122,49 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱一,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+地理野生-02,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+东森财经-01,rtmp://59.124.75.138:1935/sat/tv571
+东森财经-02,rtmp://219.80.97.35/sat/tv571
+东森超视-01,rtmp://59.124.75.138:1935/sat/tv331
+东森超视-02,rtmp://219.80.97.35/sat/tv331
+凤凰中文-01,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰资讯-01,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯-02,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+华视-01,rtmp://59.124.75.138:1935/sat/tv111
+华视-02,rtmp://219.80.97.35/sat/tv111
+民视-01,rtmp://59.124.75.138:1935/sat/tv051
+民视-02,rtmp://219.80.97.35/sat/tv051
+陌陌综合-01,rtmp://59.124.75.138:1935/sat/tv761
+陌陌综合-02,rtmp://219.80.97.35/sat/tv761
+台视-01,rtmp://59.124.75.138:1935/sat/tv071
+台视-02,rtmp://219.80.97.35/sat/tv071
+纬来日本-01,rtmp://59.124.75.138:1935/sat/tv771
+纬来日本-02,rtmp://219.80.97.35/sat/tv771
+纬来体育-01,rtmp://59.124.75.138:1935/sat/tv721
+纬来体育-02,rtmp://219.80.97.35/sat/tv721
+纬来育乐-01,rtmp://59.124.75.138:1935/sat/tv701
+纬来育乐-02,rtmp://219.80.97.35/sat/tv701
+有线18-01,rtmp://59.124.75.138:1935/sat/hk041
+有线18-02,rtmp://219.80.97.35/sat/hk041
+原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+中视-01,rtmp://59.124.75.138:1935/sat/tv091
+中视-02,rtmp://219.80.97.35/sat/tv091
+CCM天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
+CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+ELEVEN1-01,rtmp://59.124.75.138:1935/sat/tv731
+ELEVEN1-02,rtmp://219.80.97.35/sat/tv731
+ELEVEN2-01,rtmp://219.80.97.35/sat/tv741
+ELEVEN2-02,rtmp://59.124.75.138:1935/sat/tv741
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+TVBS欢乐-01,rtmp://59.124.75.138:1935/sat/tv421
+TVBS欢乐-02,rtmp://219.80.97.35/sat/tv421
+TVBS新闻-01,rtmp://59.124.75.138:1935/sat/tv551
+TVBS新闻-02,rtmp://219.80.97.35/sat/tv551
 
 世界|频道,#genre#
 
