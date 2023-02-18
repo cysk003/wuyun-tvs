@@ -1,5 +1,5 @@
 
-
+稳定app晴天TV tg：https://t.me/qingtiantv
 
 ipv6|频道,#genre#
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
