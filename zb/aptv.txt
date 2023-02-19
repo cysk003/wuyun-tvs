@@ -1,6 +1,6 @@
 
 稳定app晴天TV tg：https://t.me/qingtiantv
-台灣,#genre#
+台灣|频道,#genre#
 CNN,P2p://generationnexxxt.com:19806/fd411706eeba4cd89f853e57069e4eb6
 民視,P2p://generationnexxxt.com:19806/15f5218e79ad46c3bd1cafa2103a1116
 人間衛視,P2p://generationnexxxt.com:19806/cb9851759ea84223bd6ba45245fe9a4e
@@ -198,7 +198,7 @@ Star Movies Gold,P2p://generationnexxxt.com:19806/11ae4e09aa5f4030b3c6bc650bf576
 Taiwan+,P2p://generationnexxxt.com:19806/69ea599bcbbe4e99a39f57c8b62d643c
 東森購物2台,P2p://generationnexxxt.com:19806/54c1fef641ec4b3394dbeb0abbe22d7d
 東森購物1台,P2p://generationnexxxt.com:19806/4a28969d36b6444a87af16d9826a6c27
-港澳,#genre#
+港澳|频道,#genre#
 港台电视31,P2p://generationnexxxt.com:19806/9046fe3ee1c94a8eac242e51cc9895ff
 港台電視32,P2p://generationnexxxt.com:19806/7d948f0b367a4e07b951125c212538ca
 HOY TV,P2p://generationnexxxt.com:19806/01dbdb22ec1b46b899251dfdf3114e2e
@@ -241,7 +241,7 @@ Hands Up,P2p://generationnexxxt.com:19806/0e6d76a3cdda438c8ac20ecbe1d65417
 亞洲劇台,P2p://generationnexxxt.com:19806/75e18867a78d4f42bb5b5153c81bb401
 功夫台,P2p://generationnexxxt.com:19806/71525f6981314b64b5168b51e982babd
 HOY資訊台,P2p://generationnexxxt.com:19806/cc9caf55933442cea14bb3b723af873c
-馬來西亞,#genre#
+馬來|频道,#genre#
 CNN,P2p://generationnexxxt.com:19806/fd411706eeba4cd89f853e57069e4eb6
 TV1,P2p://generationnexxxt.com:19806/ec218fc36acc44908a6ca35bb6b4a15d
 TV2,P2p://generationnexxxt.com:19806/693f89c2a9d8479ca12d6e93e08423ef
@@ -272,7 +272,7 @@ Colors Hindi,P2p://generationnexxxt.com:19806/58fdadb5571841e8886d850c7e24dbbb
 TVS,P2p://generationnexxxt.com:19806/e1b62b390f0e4cbdb006e649e79bb873
 tvN Movies HD,P2p://generationnexxxt.com:19806/ae806aaeb4f5487a86dc0d8e371e347b
 Astro Awani,P2p://generationnexxxt.com:19806/a32ed746445b45128fc97cff0723bf6c
-午夜_1888,#genre#
+午夜|频道,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/3d8f43de242d49b6be4616aa4ef40f8d
 彩虹電影台,P2p://generationnexxxt.com:19806/d39f0c9d15df42aaa2486ecaac9ed5a8
 LOOK TV,P2p://generationnexxxt.com:19806/a058f3e33b5f4b28ab0a035345a7762e
