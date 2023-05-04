@@ -3231,7 +3231,7 @@ CHANNEl V,http://113.117.74.17:808/hls/88/index.m3u8
 永修电视一套,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8;{User-Agent@Lavf/57.83.100?zjiangxd}
 莲花综合频道,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8;{User-Agent@Lavf/57.83.100?zjiangxd}
 
-🍃🍃甘肃,#genre#
+🔆甘肃,#genre#
 甘肃,http://39.135.32.10:6610/000000001000/SD-4000k-576P-gansustv/1.m3u8?IASHttpSessionId=OTT?zgand
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8?zgand
 甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8?zgand
@@ -5111,8 +5111,7 @@ pilihan,http://w.nasvpn.xyz:8080/live/saya/saya/13852.ts?blog.ntnas.top
 pelangi,http://w.nasvpn.xyz:8080/live/saya/saya/13853.ts?blog.ntnas.top
 harmoni,http://w.nasvpn.xyz:8080/live/saya/saya/13854.ts?blog.ntnas.top
 
-
-🎎日本频道,#genre#
+🔆日本,#genre#
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Animax,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
@@ -5146,7 +5145,7 @@ Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 
-🎈韩国频道,#genre#
+🔆韩国,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
